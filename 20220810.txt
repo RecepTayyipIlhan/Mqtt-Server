@@ -1,0 +1,7 @@
+received_at	application_id	device_id	f_port	f_cnt	rssi	snr	data_rate_index	consumed_airtime	frm_payload	decoded_payload
+2022-08-10T01:28:20.082633907Z	ardunio-uno-app	testt	1	-	-40	8.5	-	0.082176s	MjYzNiw0LDIzLjI4MzQsMjMuMzYzNjMNCg==	{'myTestValue': '2636,4,23.2834,23.36363\r\n'}
+2022-08-10T01:28:21.356296663Z	ardunio-uno-app	testt	1	1	-37	7	-	0.066816s	MQ==	{'myTestValue': '1'}
+2022-08-10T20:50:41.639954623Z	ardunio-uno-app	testt	1	-	-42	9	-	0.087296s	MTAwLDEsNDEuMDQ2NDI5NCwyOC45NDQzMTI4DQo=	{'myTestValue': '100,1,41.0464294,28.9443128\r\n'}
+2022-08-10T20:50:43.956161992Z	ardunio-uno-app	testt	1	1	-41	7.25	-	0.046336s	MQ==	{'myTestValue': '1'}
+2022-08-10T20:51:03.712319295Z	ardunio-uno-app	testt	1	-	-40	7.25	-	0.087296s	MTAwLDQsNDEuMDQ2NDI5NCwyOC45NDQzMTI4DQo=	{'myTestValue': '100,4,41.0464294,28.9443128\r\n'}
+2022-08-10T20:51:04.964300162Z	ardunio-uno-app	testt	1	1	-42	10	-	0.066816s	MQ==	{'myTestValue': '1'}
